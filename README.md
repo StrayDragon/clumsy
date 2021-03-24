@@ -1,3 +1,6 @@
+# Plan
+Use **Rust** rewrite this project (2 months)
+
 # clumsy
 
 __clumsy makes your network condition on Windows significantly worse, but in a managed and interactive manner.__
