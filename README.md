@@ -16,6 +16,14 @@ Leveraging the awesome [WinDivert](http://reqrypt.org/windivert.html), clumsy st
 
 See [this page](http://jagt.github.io/clumsy) for more info and build instructions.
 
+
+## Details
+
+Simulate network latency, delay, packet loss with clumsy on Windows 7/8/10:
+
+![](clumsy-demo.gif)
+
+
 ## License
 
 MIT
